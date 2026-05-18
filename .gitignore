@@ -1,0 +1,21 @@
+# Yocto
+build/
+tmp/
+sstate-cache/
+downloads/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Doxygen
+doxygen/generated/
+
+# Temporary
+*.tmp
+*.swp
