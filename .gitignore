@@ -19,3 +19,13 @@ doxygen/generated/
 # Temporary
 *.tmp
 *.swp
+
+# Yocto upstream repositories
+yocto/sources/poky/
+yocto/sources/meta-raspberrypi/
+yocto/sources/meta-openembedded/
+
+# Yocto caches/build artifacts
+yocto/downloads/
+yocto/sstate-cache/
+yocto/sources/poky/build/
